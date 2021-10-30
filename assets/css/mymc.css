@@ -1,0 +1,42 @@
+
+ .staff-member {
+   height: 150px;
+   width: 150px;
+   padding-top: 100px;
+   display: inline-block;
+   margin-right: 9px;
+   margin-bottom: 20px;
+ }
+ .staff-name {
+   background: rgba(0,0,0,.3);
+   height: 50px;
+   padding: 15px 10px;
+   min-width: 100%;
+ }
+ .staff-name span {
+   color: #fff;
+   font-size: 15px;
+ }
+ .carousel-inner > .item > iframe{
+   display: block;
+   max-width: 100%;
+   height: auto;
+   line-height: 1;
+ }
+ .vote-item {
+   min-width: 100%;
+   min-height: 500px;
+   border: 0px solid transparent;
+ }
+ .vote-name {
+   color: #1CC7E3;
+ }
+ .server-name-card {
+ font-weight: 600;
+ text-align: center;
+ }
+ .bottom .nav > li  {
+ position: relative;
+ display: block;
+ padding: 10px 15px;
+ }
